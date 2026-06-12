@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "Hash": "k5CRmNaPBvhwvNib3Hb4F3eJq/ydOkf9H4Hcaob/1Aw=",
+  "Source": "Nexus",
+  "BasePath": "_content/Nexus",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Nexus\\wwwroot",
+      "Source": "Nexus",
+      "ContentRoot": "G:\\Internship-Tasks\\Nexus-FullStack\\Nexus.API\\wwwroot\\",
+      "BasePath": "_content/Nexus",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "G:\\Internship-Tasks\\Nexus-FullStack\\Nexus.API\\wwwroot\\uploads\\documents\\19a96738-a6c6-405c-9e64-5a35bc08bb91.pdf",
+      "SourceId": "Nexus",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\Internship-Tasks\\Nexus-FullStack\\Nexus.API\\wwwroot\\",
+      "BasePath": "_content/Nexus",
+      "RelativePath": "uploads/documents/19a96738-a6c6-405c-9e64-5a35bc08bb91#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "blvifmy7g7",
+      "Integrity": "kSiYMMIVrVy+PSjMw+1O1Abe31C+tADRZVocEuwemG8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\documents\\19a96738-a6c6-405c-9e64-5a35bc08bb91.pdf"
+    },
+    {
+      "Identity": "G:\\Internship-Tasks\\Nexus-FullStack\\Nexus.API\\wwwroot\\uploads\\documents\\1e4c0d8b-f80d-47cf-a67b-0aa7df7f6780.pdf",
+      "SourceId": "Nexus",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\Internship-Tasks\\Nexus-FullStack\\Nexus.API\\wwwroot\\",
+      "BasePath": "_content/Nexus",
+      "RelativePath": "uploads/documents/1e4c0d8b-f80d-47cf-a67b-0aa7df7f6780#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "geogyrxjku",
+      "Integrity": "iF3+R2R4/lxa4X3F2zDZsj9R2IMF/+jpqUYjmFDEb1o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\documents\\1e4c0d8b-f80d-47cf-a67b-0aa7df7f6780.pdf"
+    },
+    {
+      "Identity": "G:\\Internship-Tasks\\Nexus-FullStack\\Nexus.API\\wwwroot\\uploads\\documents\\39069e02-8156-4c5f-82c9-70f5538588d0.pdf",
+      "SourceId": "Nexus",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\Internship-Tasks\\Nexus-FullStack\\Nexus.API\\wwwroot\\",
+      "BasePath": "_content/Nexus",
+      "RelativePath": "uploads/documents/39069e02-8156-4c5f-82c9-70f5538588d0#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "geogyrxjku",
+      "Integrity": "iF3+R2R4/lxa4X3F2zDZsj9R2IMF/+jpqUYjmFDEb1o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\documents\\39069e02-8156-4c5f-82c9-70f5538588d0.pdf"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "uploads/documents/19a96738-a6c6-405c-9e64-5a35bc08bb91.blvifmy7g7.pdf",
+      "AssetFile": "G:\\Internship-Tasks\\Nexus-FullStack\\Nexus.API\\wwwroot\\uploads\\documents\\19a96738-a6c6-405c-9e64-5a35bc08bb91.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "372311"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kSiYMMIVrVy+PSjMw+1O1Abe31C+tADRZVocEuwemG8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Jun 2026 18:38:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "blvifmy7g7"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/documents/19a96738-a6c6-405c-9e64-5a35bc08bb91.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kSiYMMIVrVy+PSjMw+1O1Abe31C+tADRZVocEuwemG8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/documents/19a96738-a6c6-405c-9e64-5a35bc08bb91.pdf",
+      "AssetFile": "G:\\Internship-Tasks\\Nexus-FullStack\\Nexus.API\\wwwroot\\uploads\\documents\\19a96738-a6c6-405c-9e64-5a35bc08bb91.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "372311"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kSiYMMIVrVy+PSjMw+1O1Abe31C+tADRZVocEuwemG8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Jun 2026 18:38:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kSiYMMIVrVy+PSjMw+1O1Abe31C+tADRZVocEuwemG8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/documents/1e4c0d8b-f80d-47cf-a67b-0aa7df7f6780.geogyrxjku.pdf",
+      "AssetFile": "G:\\Internship-Tasks\\Nexus-FullStack\\Nexus.API\\wwwroot\\uploads\\documents\\1e4c0d8b-f80d-47cf-a67b-0aa7df7f6780.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "234376"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iF3+R2R4/lxa4X3F2zDZsj9R2IMF/+jpqUYjmFDEb1o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Jun 2026 17:55:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "geogyrxjku"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/documents/1e4c0d8b-f80d-47cf-a67b-0aa7df7f6780.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iF3+R2R4/lxa4X3F2zDZsj9R2IMF/+jpqUYjmFDEb1o="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/documents/1e4c0d8b-f80d-47cf-a67b-0aa7df7f6780.pdf",
+      "AssetFile": "G:\\Internship-Tasks\\Nexus-FullStack\\Nexus.API\\wwwroot\\uploads\\documents\\1e4c0d8b-f80d-47cf-a67b-0aa7df7f6780.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "234376"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iF3+R2R4/lxa4X3F2zDZsj9R2IMF/+jpqUYjmFDEb1o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Jun 2026 17:55:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iF3+R2R4/lxa4X3F2zDZsj9R2IMF/+jpqUYjmFDEb1o="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/documents/39069e02-8156-4c5f-82c9-70f5538588d0.geogyrxjku.pdf",
+      "AssetFile": "G:\\Internship-Tasks\\Nexus-FullStack\\Nexus.API\\wwwroot\\uploads\\documents\\39069e02-8156-4c5f-82c9-70f5538588d0.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "234376"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iF3+R2R4/lxa4X3F2zDZsj9R2IMF/+jpqUYjmFDEb1o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Jun 2026 20:13:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "geogyrxjku"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/documents/39069e02-8156-4c5f-82c9-70f5538588d0.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iF3+R2R4/lxa4X3F2zDZsj9R2IMF/+jpqUYjmFDEb1o="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/documents/39069e02-8156-4c5f-82c9-70f5538588d0.pdf",
+      "AssetFile": "G:\\Internship-Tasks\\Nexus-FullStack\\Nexus.API\\wwwroot\\uploads\\documents\\39069e02-8156-4c5f-82c9-70f5538588d0.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "234376"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iF3+R2R4/lxa4X3F2zDZsj9R2IMF/+jpqUYjmFDEb1o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Jun 2026 20:13:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iF3+R2R4/lxa4X3F2zDZsj9R2IMF/+jpqUYjmFDEb1o="
+        }
+      ]
+    }
+  ]
+}
